@@ -9,7 +9,7 @@ import { Link as RouterLink } from "react-router-dom";
 const useStyles = makeStyles((theme) => ({
   "@global": {
     ul: {
-      margin: 0,
+      margin: 2,
       padding: 0,
       listStyle: "none",
     },
